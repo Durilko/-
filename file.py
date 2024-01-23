@@ -1,3 +1,4 @@
+# Проект сделал Durilko
 links1 = open("Ссылки1.txt")
 links2 = open("Ссылки2.txt")
 
